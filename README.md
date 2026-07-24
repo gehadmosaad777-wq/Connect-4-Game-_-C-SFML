@@ -1,2 +1,2 @@
 # Connect4-Game_Cpp
-A fully interactive Connect 4 game built with C++ and SFML . It features a complete Graphical User Interface (GUI), engaging sound effects, and custom typography . Developed using Object-Oriented Programming (OOP) principles to handle robust game logic, win detection, and responsive user inputs .
+An interactive console-based Connect 4 game built using C++. It features two dynamic game modes: Player vs. Player and Player vs. Computer equipped with intelligent decision-making logic to win or block moves. Players customize their names and symbols, compete on a 6x7 grid, track scores across rounds, and enjoy real-time win checks."
